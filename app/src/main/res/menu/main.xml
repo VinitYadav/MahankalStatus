@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemShare"
+        android:icon="@drawable/share_icon"
+        android:title="Share App"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/itemDisclaimer"
+        android:icon="@drawable/disclaimer_icon"
+        android:title="Disclaimer"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mahankal Status</string>
+
+    <string name="test_banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_id">ca-app-pub-9410485102616367/4709251804</string>
+    <string name="test_interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_ad_id">ca-app-pub-9410485102616367/1480275623</string>
+
+</resources>
