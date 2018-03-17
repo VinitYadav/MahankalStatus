@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.itemShare:
+            case R.id.itemShare: // Share application url
                 String appPackageName = getPackageName();
                 String url = "http://play.google.com/store/apps/details?id=" + appPackageName;
                 Intent sendIntent = new Intent();
